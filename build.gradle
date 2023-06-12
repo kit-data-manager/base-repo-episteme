@@ -80,6 +80,8 @@ dependencies {
 
     implementation "edu.kit.datamanager:repo-core:1.1.2"
     implementation "edu.kit.datamanager:service-base:1.1.1"
+    implementation "edu.kit.datamanager:generic-message-consumer:1.0.0"
+    implementation "edu.kit.datamanager:tiff-processor:0.1.0"
 
     //implementation "com.github.victools:jsonschema-generator:4.23.0"
 

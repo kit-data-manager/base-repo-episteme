@@ -6,4 +6,5 @@
 /.vscode/
 /lib/
 /bin/
+/builds/
 **/application.properties
