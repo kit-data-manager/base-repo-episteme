@@ -15,7 +15,7 @@ data resource management, e.g. register DataCite-oriented metadata and upload/do
 
 In order to build this microservice you'll need:
 
-* Java SE Development Kit 11 or higher
+* Java SE Development Kit 17 or higher
 
 After obtaining the sources change to the folder where the sources are located perform the following steps:
 
@@ -39,7 +39,7 @@ libraries and finally build the base-repo microservice itself. As a result, a fa
 
 * PostgreSQL 9.1 or higher
 * RabbitMQ 3.7.3 or higher (in case you want to use the messaging feature, which is recommended)
-* Elastic 7.X or higher (in case you want to use the search feature)
+* Elastic 8.X or higher (in case you want to use the search feature)
 
 ### Setup
 
@@ -102,7 +102,7 @@ What you now have to do before you start the microservice is to place additional
 
 * [Getting Started & Documentation](https://kit-data-manager.github.io/webpage/base-repo/index.html)
 * [API documentation](https://kit-data-manager.github.io/webpage/base-repo/documentation/api-docs.html)
-* [Docker container](https://hub.docker.com/r/kitdm/base-repo)
+* [Docker container]([https://hub.docker.com/r/kitdm/base-repo](https://github.com/kit-data-manager/base-repo/pkgs/container/base-repo%2Fbase-repo))
 * [Information about the DataCite metadata schema](https://schema.datacite.org/)
 
 ## License
